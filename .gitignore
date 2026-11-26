@@ -22,3 +22,23 @@ __pycache__/
 # Archivos de Spark
 spark-warehouse/
 metastore_db/
+
+
+# Configuracion local de VS Code
+.vscode/
+
+# Checkpoints de Spark Streaming
+checkpoints/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Entornos virtuales
+.venv/
+venv/
+.env
